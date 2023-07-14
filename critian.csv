@@ -1,41 +1,41 @@
-Entity,GDP per capita (USD),,Life satisfaction
-Afghanistan,2057.0679,3.794,
-Albania,12291.859,4.644,
-Algeria,11826.151,5.872,
-Angola,7568.998,3.795,
-Antigua and Barbuda,19419.633,6.599,
-Argentina,23189.527,4.376,
-Armenia,11303.067,7.284,
-Aruba,38314.805,7.006,
-Australia,48116.03,5.234,
-Austria,53345.742,6.087,
-Azerbaijan,14232.192,4.608,
-Bahamas,35701.23,5.569,
-Bahrain,47937.71,6.891,
-Bangladesh,3920.1445,5.956,
-Barbados,15738.079,3.657,
-Belarus,17883.127,5.011,
-Belgium,49829.926,5.823,
-Belize,7206.9526,5.182,
-Benin,2961.4404,3.766,
-Bermuda,78149.35,6.635,
-Bhutan,10775.19,4.714,
-Bolivia,8202.544,4.032,
-Bosnia and Herzegovina,13194.331,2.905,
-Botswana,15654.682,4.168,
-Brazil,14451.153,4.695,
-Brunei,60867.293,7.316,
-Bulgaria,20740.795,2.693,
-Burkina Faso,1981.4298,3.936,
-Burundi,794.60425,6.652,
-Cambodia,3728.0996,5.273,
-Cameroon,3634.381,6.357,
-Canada,47457.586,4.291,
-Cape Verde,6482.7217,7.079,
-Cayman Islands,68484.51,4.18,
-Central African Republic,884.4952,5.293,
-Chad,1687.0536,5.621,
-Chile,24531.357,6.609,
-China,13399.138,4.28,
-Colombia,14194.516,7.522,
-Comoros,2987.9702,5.23,
+Entity,GDP per capita (USD),Life satisfaction
+Afghanistan,2057.0679,3.794
+Albania,12291.859,4.644
+Algeria,11826.151,5.872
+Angola,7568.998,3.795
+Antigua and Barbuda,19419.633,6.599
+Argentina,23189.527,4.376
+Armenia,11303.067,7.284
+Aruba,38314.805,7.006
+Australia,48116.03,5.234
+Austria,53345.742,6.087
+Azerbaijan,14232.192,4.608
+Bahamas,35701.23,5.569
+Bahrain,47937.71,6.891
+Bangladesh,3920.1445,5.956
+Barbados,15738.079,3.657
+Belarus,17883.127,5.011
+Belgium,49829.926,5.823
+Belize,7206.9526,5.182
+Benin,2961.4404,3.766
+Bermuda,78149.35,6.635
+Bhutan,10775.19,4.714
+Bolivia,8202.544,4.032
+Bosnia and Herzegovina,13194.331,2.905
+Botswana,15654.682,4.168
+Brazil,14451.153,4.695
+Brunei,60867.293,7.316
+Bulgaria,20740.795,2.693
+Burkina Faso,1981.4298,3.936
+Burundi,794.60425,6.652
+Cambodia,3728.0996,5.273
+Cameroon,3634.381,6.357
+Canada,47457.586,4.291
+Cape Verde,6482.7217,7.079
+Cayman Islands,68484.51,4.18
+Central African Republic,884.4952,5.293
+Chad,1687.0536,5.621
+Chile,24531.357,6.609
+China,13399.138,4.28
+Colombia,14194.516,7.522
+Comoros,2987.9702,5.23
